@@ -1,0 +1,3 @@
+sudo npm i -g yarn
+yarn create next-app learning_chartjs
+yarn add chart.js react-chartjs-2

@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+
+.blueText{
+  color:rgb(11, 127, 222)
+}
+
+.greyText{
+  color:rgb(25, 91, 8);
+  font-size: 18px;
+}
